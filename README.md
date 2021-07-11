@@ -3,6 +3,19 @@
 ## What is BoxBox?
 BoxBox is a service for people who want to purchase boxes but are unsure which type, size and color they want that box. The goal for the application is that it is a subscription service where users can receive a random box containing a set of box nets which the user can then build. It in a sense is two things in one, a useful tool to purchase boxes and a fun game of building said boxes.
 
+## Purpose
+
+## Functionality / Features
+
+## Target Audience
+
+## Tech Stack
+The tech stack used in BoxBox is React.js on the front end, Ruby on Rails as the backend and Postgresql as the database.
+
+The purpose of using React as my front end is so that the application can run as a one page application. It allows for the app to run smooth and gives me access to state variables and hooks.
+
+Using Ruby on Rails as my back end allows for an easy to write strong API controller. Pairing Rails with PostgreSQL means I will be able to have a strong database with relationships.
+
 ## User Stories
 #### USER
 - As a user, I want to be able to make an account, so that I can make purchases
@@ -15,3 +28,4 @@ BoxBox is a service for people who want to purchase boxes but are unsure which t
 - As an admin, I want to be able to view all current placed orders, so that I can fulfil the order
 - As an admin, I want to be able to update the current price of boxes, so that I can change prices on the fly
 - As an admin, I want to be able to view all previous orders, so that I can update prices dependent on demand
+- As an admin, I want to be able to ban/delete users, so that I maintain control over my app
