@@ -1,9 +1,10 @@
 # BoxBox
 
 ## What is BoxBox?
-BoxBox is a service for people who want to purchase boxes but are unsure which type, size and color they want that box. The goal for the application is that it is a subscription service where users can receive a random box containing a set of box nets which the user can then build. It in a sense is two things in one, a useful tool to purchase boxes and a fun game of building said boxes.
+BoxBox is a service for people who want to purchase boxes but are unsure which type, size and color they want that box. 
 
 ### Purpose
+The goal for the application is that it is a subscription service where users can receive a random box containing a set of box nets which the user can then build. It in a sense is two things in one, a useful tool to purchase boxes and a fun game of building said boxes.
 
 ### Functionality / Features
 The application has multiple features to allow for the users and administrators to have the best experience possible. Users have the ability to sign up, sign in and save their shipping details. This allows for them to be able to quickly purchase more boxes. The users also have the ability to leave reviews which allows for a smoother experience for new buyers to trust the service. On the alternate side the administrators have a list of feature which will allow keeping the platform safe, secure and smooth much easier. The admins can access all orders, products, reviews and users from one quick acess panel, the panel will change and reshape depending on the section selected. 
